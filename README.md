@@ -21,6 +21,6 @@ npm run serve
 ```
 
 ### 部分截图
-
+![epidemic-1](https://user-images.githubusercontent.com/96017836/197759659-166e4104-be3b-4164-bb7d-dc532359b9eb.png)
 ------
 
