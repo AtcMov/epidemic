@@ -8,6 +8,8 @@
 
 - vue全家桶
 
+-typescript
+
 - echarts
 
 - element-ui
