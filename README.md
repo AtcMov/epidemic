@@ -8,7 +8,7 @@
 
 - vue全家桶
 
--typescript
+- typescript
 
 - echarts
 
